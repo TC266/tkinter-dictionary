@@ -17,7 +17,7 @@ deutsch_dictionary ={"Danke": "Thank you",
                      "entschuldigung": "excuse me",
                      "auf wiedersehen": "goodbye",
                      "katze": "cat",
-                     "hund": "dog"
+                     "hund": "dog",
 
                      } 
 french_dictionary ={"merci": "Thank you",
@@ -39,7 +39,7 @@ french_dictionary ={"merci": "Thank you",
                     "excusez-moi": "excuse me",
                     "au revoir": "goodbye",
                     "chat": "cat",
-                    "chien": "dog"
+                    "chien": "dog",
 
                    }
 

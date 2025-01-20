@@ -19,4 +19,31 @@ deutsch_dictionary ={"Danke": "Thank you",
                      "katze": "cat",
                      "hund": "dog"
 
-                     }
+                     } 
+french_dictionary ={"merci": "Thank you",
+                    "oui": "yes",
+                    "non": "no",
+                    "ami": "friend",
+                    "famille": "family",
+                    "eau": "water",
+                    "pain": "bread",
+                    "maison": "house",
+                    "ecole": "school",
+                    "voiture": "car",
+                    "bonjour": "hello",
+                    "s'il vous plait": "please",
+                    "bon": "good",
+                    "matin": "morning",
+                    "soir": "evening",
+                    "nuit": "night",
+                    "excusez-moi": "excuse me",
+                    "au revoir": "goodbye",
+                    "chat": "cat",
+                    "chien": "dog",
+
+                   }
+
+
+
+                    
+

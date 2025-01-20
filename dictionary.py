@@ -39,7 +39,7 @@ french_dictionary ={"merci": "Thank you",
                     "excusez-moi": "excuse me",
                     "au revoir": "goodbye",
                     "chat": "cat",
-                    "chien": "dog",
+                    "chien": "dog"
 
                    }
 
